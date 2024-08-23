@@ -25,7 +25,7 @@ SECRET_KEY = 'django-insecure-6uqcq3&eq7d43@3#gohp#w0e)pr^!asg+9rs1@ly+%e7q$gl^k
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['https://photoapi-1.onrender.com']
+ALLOWED_HOSTS = ['photoapi-1.onrender.com']
 
 
 # Application definition
